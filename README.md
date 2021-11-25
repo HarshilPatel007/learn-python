@@ -18,7 +18,8 @@ python programming language tutorials.
 
 - ### Websites
 
+  - [Python.org](https://docs.python.org/3/index.html)
   - [RealPython](https://realpython.com/)
   - [TeachBeamers](https://www.techbeamers.com/)
   - [dev.to](https://dev.to/t/python)
-  - [Python.org](https://docs.python.org/3/index.html)
+  - [python.land](https://python.land/)
