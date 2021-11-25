@@ -4,8 +4,8 @@ python programming language tutorials.
 
 ## AwesomePython
 
-[Youtube Channels](#youtube-channels)
-[Websites](#websites)
+- [Youtube Channels](#youtube-channels)
+- [Websites](#websites)
 
 ### Youtube Channels
 
