@@ -20,6 +20,8 @@ OOPs - Object Oriented Programming
 Data Structure
 Comprehensions
 Lamda Functions
+Collection Module
+Map and Filter
 *args, **kwargs
 Advance Class Behavior - Dunder Methods
 PIP, Python Environment like, Conda
@@ -36,6 +38,3 @@ concurrency and parallelism - threading, multi threading
 testing
 build and manipulate packages
 Cython
-
-Expert/Master Level:
-====================
