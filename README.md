@@ -16,6 +16,7 @@ python programming language tutorials.
   - [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
   - [RealPython](https://www.youtube.com/realpython)
   - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+  - **PyCon {Country name}**
 
 - ### Websites
 
@@ -25,3 +26,4 @@ python programming language tutorials.
   - [dev.to](https://dev.to/t/python)
   - [python.land](https://python.land/)
   - [Programiz](https://www.programiz.com/)
+  - [PyCon](https://pycon.org)
