@@ -1,4 +1,5 @@
 # Basic Level
+
 - Variables
 - Conditions
 - Chained Conditions
@@ -12,19 +13,21 @@
 - File I/O
 
 # Intermidiate Level
+
 - OOPs - Object Oriented Programming
 - Data Structure
 - Comprehensions
 - Lamda Functions
 - Collection Module
 - Map and Filter
-- *args, **kwargs
+- \*args, \*\*kwargs
 - Advance Class Behavior - Dunder Methods
 - PIP, Python Environment like, Conda
 - Module Creations
 - Async IO
 
 # Advanced Level
+
 - decorators
 - generators
 - context manager
@@ -35,7 +38,9 @@
 - Cython
 
 # Libraries to Learn
+
 most common libraries/modules that is used in most of the python projects.
+
 - Working with strings
   - `string, re`
 - Working with numerical or methematical things
@@ -46,3 +51,5 @@ most common libraries/modules that is used in most of the python projects.
   - `os, sys, pathlib, shutil, tempfile, glob, filecmp`
 - Working with data compression and archiving
   - `zlib, gzip, bz2, lzma, zipfile, tarfile`
+- Working with excel files
+  - `openpyxl, xlrd, xlsxwriter`
